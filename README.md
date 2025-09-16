@@ -1,5 +1,3 @@
-# SIH-ElectricFenceAI
-AI/ML model to detect illegal electric fence currents vs normal household currents using RMS, Pulse Rate, and Peak Current. Includes dataset, training code, and SIH 2025 PPT. Enhances electrical safety, prevents accidents, and detects power theft.
 
 Here’s a **fully detailed README template** for your SIH Electric Fence AI/ML project --
 
