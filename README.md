@@ -1,5 +1,5 @@
 
-Here’s a **fully detailed README for your SIH Electric Fence AI/ML project --
+Here’s a fully detailed README for your SIH Electric Fence AI/ML project --
 
 # ⚡ Smart Illegal Electric Fence Detection – SIH 2025
 
